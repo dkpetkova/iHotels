@@ -18,12 +18,6 @@
 		FDC635BA1668DC71006250B3 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FDC635B91668DC71006250B3 /* Default-568h@2x.png */; };
 		FDC635BD1668DC71006250B3 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FDC635BC1668DC71006250B3 /* ViewController.m */; };
 		FDC635C01668DC71006250B3 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = FDC635BE1668DC71006250B3 /* ViewController.xib */; };
-		FDC635CB1668E278006250B3 /* image.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = FDC635CA1668E278006250B3 /* image.jpeg */; };
-		FDC635CD1668E2A6006250B3 /* image.png in Resources */ = {isa = PBXBuildFile; fileRef = FDC635CC1668E2A6006250B3 /* image.png */; };
-		FDC635D31668E70B006250B3 /* BluePlayButton-50x50.png in Resources */ = {isa = PBXBuildFile; fileRef = FDC635D21668E70B006250B3 /* BluePlayButton-50x50.png */; };
-		FDC635D61668E7B0006250B3 /* stop_button.png in Resources */ = {isa = PBXBuildFile; fileRef = FDC635D41668E7B0006250B3 /* stop_button.png */; };
-		FDC635D71668E7B0006250B3 /* play_button.png in Resources */ = {isa = PBXBuildFile; fileRef = FDC635D51668E7B0006250B3 /* play_button.png */; };
-		FDC635E11669084E006250B3 /* load.png in Resources */ = {isa = PBXBuildFile; fileRef = FDC635E01669084E006250B3 /* load.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -43,12 +37,6 @@
 		FDC635BB1668DC71006250B3 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		FDC635BC1668DC71006250B3 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		FDC635BF1668DC71006250B3 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
-		FDC635CA1668E278006250B3 /* image.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = image.jpeg; path = ../image.jpeg; sourceTree = "<group>"; };
-		FDC635CC1668E2A6006250B3 /* image.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = image.png; path = ../image.png; sourceTree = "<group>"; };
-		FDC635D21668E70B006250B3 /* BluePlayButton-50x50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "BluePlayButton-50x50.png"; path = "../BluePlayButton-50x50.png"; sourceTree = "<group>"; };
-		FDC635D41668E7B0006250B3 /* stop_button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = stop_button.png; path = ../stop_button.png; sourceTree = "<group>"; };
-		FDC635D51668E7B0006250B3 /* play_button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = play_button.png; path = ../play_button.png; sourceTree = "<group>"; };
-		FDC635E01669084E006250B3 /* load.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = load.png; path = ../load.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,12 +83,6 @@
 		FDC635A91668DC71006250B3 /* Timer */ = {
 			isa = PBXGroup;
 			children = (
-				FDC635E01669084E006250B3 /* load.png */,
-				FDC635D41668E7B0006250B3 /* stop_button.png */,
-				FDC635D51668E7B0006250B3 /* play_button.png */,
-				FDC635D21668E70B006250B3 /* BluePlayButton-50x50.png */,
-				FDC635CC1668E2A6006250B3 /* image.png */,
-				FDC635CA1668E278006250B3 /* image.jpeg */,
 				FDC635B21668DC71006250B3 /* AppDelegate.h */,
 				FDC635B31668DC71006250B3 /* AppDelegate.m */,
 				FDC635BB1668DC71006250B3 /* ViewController.h */,
@@ -181,12 +163,6 @@
 				FDC635B81668DC71006250B3 /* Default@2x.png in Resources */,
 				FDC635BA1668DC71006250B3 /* Default-568h@2x.png in Resources */,
 				FDC635C01668DC71006250B3 /* ViewController.xib in Resources */,
-				FDC635CB1668E278006250B3 /* image.jpeg in Resources */,
-				FDC635CD1668E2A6006250B3 /* image.png in Resources */,
-				FDC635D31668E70B006250B3 /* BluePlayButton-50x50.png in Resources */,
-				FDC635D61668E7B0006250B3 /* stop_button.png in Resources */,
-				FDC635D71668E7B0006250B3 /* play_button.png in Resources */,
-				FDC635E11669084E006250B3 /* load.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
